@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l :digit: ls -a .*
+ls -l :digit: -a .*
