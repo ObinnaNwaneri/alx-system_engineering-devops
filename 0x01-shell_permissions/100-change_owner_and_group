@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent betty chgrp staff school -R */
+chown vincent chgrp staff -R */
