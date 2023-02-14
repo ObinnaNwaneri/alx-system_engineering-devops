@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -l .  -type d 
+wc -l -a .  -type d 
