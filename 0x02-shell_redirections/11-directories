@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -a . -type d   
+wc -l .  -type d 
