@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -f sort *.js .
+find -f "*.js" . -delete
