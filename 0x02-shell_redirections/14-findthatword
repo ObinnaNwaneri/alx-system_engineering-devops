@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l /etc/passwd | echo /*/root
+cat /etc/passwd | echo */root:
